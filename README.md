@@ -10,7 +10,7 @@ Time spent: 2 hours
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Tic-Tac-Toe.mp4' title='Tic-Tac-Toe animated demo' alt='Tic-Tac-Toe demo' />
+<img src='Tic-Tac-Toe.gif' title='Tic-Tac-Toe animated demo' alt='Tic-Tac-Toe demo' />
 
 ## License
 
